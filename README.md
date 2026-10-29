@@ -1,4 +1,4 @@
-# 🎙️ RAG Voicer AI Agent
+# 🎙️ RAG Voice AI Agent
 
 A real-time **Voice RAG AI Agent** that allows users to interact with an AI assistant using natural voice conversations.
 
